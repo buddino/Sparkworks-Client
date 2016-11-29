@@ -1,6 +1,7 @@
 # Sparkworks Swagger Java Client
 ## OAuth2 Configuration
 Edit the account.yaml.template with your account information and rename to account.yaml
+
 User Configurator.getApiClient() to retrieve the ApiClient configured with the access_token.
 
 ## Requirements
